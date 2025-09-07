@@ -87,11 +87,13 @@ function confirmedOperation(){
     // const User_iD=localStorage.getItem("User-ID");
 
 
-    if(To!=="majd-9829" && To!=="name-1212"){
+   if(To){
+     if(To!=="majd-9829" && To!=="name-1212" ){
         alert("User Not Found")
         // cancelPopup();
         return;
     }
+   }
 
     if(parseFloat(Balance)<parseFloat(amount)){
         alert("can not place this transaction EROR(0001)")
@@ -212,4 +214,5 @@ function GenerateGlobalTransactionCode(){
         Code += posCode.charAt(Math.floor(Math.random() * posCode.length));
     }
     return Code;
+
 }

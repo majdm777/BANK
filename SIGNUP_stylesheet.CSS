@@ -110,7 +110,7 @@
     display: none;
 }
 #signedup{
-    display: block;
+    display: none;
     background-color:red;
 }   
 
@@ -276,6 +276,7 @@
      .message{
         font-size: 100%;
     }
+
 
 
 }

@@ -132,7 +132,7 @@
         object-fit:scale-down;
     }
     .SIGN_IN_BOX{
-        width: 75%;
+        width: 80vw;
         height: auto;
     }
     .SIGN_IN_FORM{
@@ -140,7 +140,7 @@
     }
     .input-box{
         width: 80%;
-        font-size: 50%;
+        font-size: 70%;
     }
     .SIGN_IN_BUTTON{
         height: 5vh;

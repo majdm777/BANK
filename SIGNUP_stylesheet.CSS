@@ -133,7 +133,7 @@
     }
     .SIGN_IN_BOX{
         width: 75%;
-        height: 55%;
+        height: auto;
     }
     .SIGN_IN_FORM{
         width: 100%;
@@ -143,7 +143,7 @@
         font-size: 50%;
     }
     .SIGN_IN_BUTTON{
-        height: 5vw;
+        height: 5vh;
         font-size: 35%;
     }
     .row_inputs{
@@ -157,19 +157,19 @@
 
     }
     .LOGIN{
-        font-size: 50%;
+        font-size: 70%;
     }
     .About_Input{
-        font-size: 50%;
+        font-size: 70%;
         width: 100%;
         justify-content: start;
     }
     .info_inputs{
-        height: 3vw;
-        font-size: 50%;
+        height: 3vh;
+        font-size: 70%;
     }
     .Next_button{
-        height: 3vw;
+        height: 5vh;
         font-size: 50%;
     }
     .message{
@@ -280,3 +280,4 @@
 
 
 }
+

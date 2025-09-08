@@ -95,7 +95,7 @@
 }
 
 .message{
-    color: red;
+    color: black;
     
     font-size: 100%;
     display: flex;
@@ -280,4 +280,5 @@
 
 
 }
+
 

@@ -107,9 +107,10 @@ body{
     .wrapper{
         object-fit:scale-down;
     }
-    .SING_IN_BOX{
-        width: 50%;
-        height: 40%;
+     .SIGN_IN_BOX{
+        width: 70vw;
+        height: 50vh;
+        font-size: 150%;
     }
     .input-box{
         width: 80%;
@@ -160,4 +161,5 @@ body{
     
     
 }
+
 
